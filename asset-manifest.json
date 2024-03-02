@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/institute_demo_app/static/css/main.d903cc2e.css",
-    "main.js": "/institute_demo_app/static/js/main.e6a64ea9.js",
+    "main.css": "/institute_demo_app/static/css/main.40408270.css",
+    "main.js": "/institute_demo_app/static/js/main.1e2d5702.js",
     "static/js/453.e1e7e583.chunk.js": "/institute_demo_app/static/js/453.e1e7e583.chunk.js",
     "static/media/login.jpg": "/institute_demo_app/static/media/login.81ac7c61bb4f69f635cc.jpg",
     "static/media/slide3.jpg": "/institute_demo_app/static/media/slide3.280ff14277980f596c89.jpg",
@@ -14,12 +14,12 @@
     "static/media/sliderr.jpg": "/institute_demo_app/static/media/sliderr.ec3abbf6da0edfd00a0e.jpg",
     "static/media/software_testing.png": "/institute_demo_app/static/media/software_testing.034b3246a60f6b84cb50.png",
     "index.html": "/institute_demo_app/index.html",
-    "main.d903cc2e.css.map": "/institute_demo_app/static/css/main.d903cc2e.css.map",
-    "main.e6a64ea9.js.map": "/institute_demo_app/static/js/main.e6a64ea9.js.map",
+    "main.40408270.css.map": "/institute_demo_app/static/css/main.40408270.css.map",
+    "main.1e2d5702.js.map": "/institute_demo_app/static/js/main.1e2d5702.js.map",
     "453.e1e7e583.chunk.js.map": "/institute_demo_app/static/js/453.e1e7e583.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d903cc2e.css",
-    "static/js/main.e6a64ea9.js"
+    "static/css/main.40408270.css",
+    "static/js/main.1e2d5702.js"
   ]
 }
