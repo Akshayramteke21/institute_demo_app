@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/institute_demo_app/static/css/main.40408270.css",
-    "main.js": "/institute_demo_app/static/js/main.1e2d5702.js",
+    "main.js": "/institute_demo_app/static/js/main.8df8492d.js",
     "static/js/453.e1e7e583.chunk.js": "/institute_demo_app/static/js/453.e1e7e583.chunk.js",
     "static/media/login.jpg": "/institute_demo_app/static/media/login.81ac7c61bb4f69f635cc.jpg",
     "static/media/slide3.jpg": "/institute_demo_app/static/media/slide3.280ff14277980f596c89.jpg",
@@ -15,11 +15,11 @@
     "static/media/software_testing.png": "/institute_demo_app/static/media/software_testing.034b3246a60f6b84cb50.png",
     "index.html": "/institute_demo_app/index.html",
     "main.40408270.css.map": "/institute_demo_app/static/css/main.40408270.css.map",
-    "main.1e2d5702.js.map": "/institute_demo_app/static/js/main.1e2d5702.js.map",
+    "main.8df8492d.js.map": "/institute_demo_app/static/js/main.8df8492d.js.map",
     "453.e1e7e583.chunk.js.map": "/institute_demo_app/static/js/453.e1e7e583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40408270.css",
-    "static/js/main.1e2d5702.js"
+    "static/js/main.8df8492d.js"
   ]
 }
