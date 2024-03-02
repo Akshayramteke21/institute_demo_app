@@ -1,0 +1,44 @@
+h2{
+
+   text-align: center;
+   text-transform: uppercase;
+   text-shadow: 4px;
+   color: darkgrey;
+   font-weight: 700;
+   font-size: 52px;
+   margin-top: 30px;
+
+}
+
+.card-body{
+
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    margin-top: 30px;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-shadow: rgba(170, 42, 42, 0.16) 0px 10px 36px 0px, rgba(239, 31, 31, 0.06) 0px 0px 0px 1px;
+    margin-bottom: 50px;
+}
+
+section{
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+h1{
+
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight:500;
+
+}
+

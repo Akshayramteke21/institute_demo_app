@@ -1,0 +1,15 @@
+h1{
+
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    
+}
+
+.card{
+
+    padding: 10px;
+    margin: auto;
+    border-radius: 2px;
+}
