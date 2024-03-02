@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/institute_demo_app/static/css/main.d903cc2e.css",
+    "main.js": "/institute_demo_app/static/js/main.c53456d8.js",
+    "static/js/453.e1e7e583.chunk.js": "/institute_demo_app/static/js/453.e1e7e583.chunk.js",
+    "static/media/login.jpg": "/institute_demo_app/static/media/login.81ac7c61bb4f69f635cc.jpg",
+    "static/media/slide3.jpg": "/institute_demo_app/static/media/slide3.280ff14277980f596c89.jpg",
+    "static/media/slide2.jpg": "/institute_demo_app/static/media/slide2.04d57fa03f6ba6d66ce3.jpg",
+    "static/media/dotnetfullstackfinal.png": "/institute_demo_app/static/media/dotnetfullstackfinal.3f3b5123c2d211ed2e2a.png",
+    "static/media/javafillstackwhitetext.png": "/institute_demo_app/static/media/javafillstackwhitetext.86e8a9e24c39cc1344e9.png",
+    "static/media/Phpfullstackfinal.png": "/institute_demo_app/static/media/Phpfullstackfinal.515d84d28865072d1e4a.png",
+    "static/media/meanstack.png": "/institute_demo_app/static/media/meanstack.b0d7fdfe3f051bc50aec.png",
+    "static/media/python.png": "/institute_demo_app/static/media/python.763fb2d8548c2d761409.png",
+    "static/media/sliderr.jpg": "/institute_demo_app/static/media/sliderr.ec3abbf6da0edfd00a0e.jpg",
+    "static/media/software_testing.png": "/institute_demo_app/static/media/software_testing.034b3246a60f6b84cb50.png",
+    "index.html": "/institute_demo_app/index.html",
+    "main.d903cc2e.css.map": "/institute_demo_app/static/css/main.d903cc2e.css.map",
+    "main.c53456d8.js.map": "/institute_demo_app/static/js/main.c53456d8.js.map",
+    "453.e1e7e583.chunk.js.map": "/institute_demo_app/static/js/453.e1e7e583.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d903cc2e.css",
+    "static/js/main.c53456d8.js"
+  ]
+}
