@@ -8,7 +8,7 @@ function Slider() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-md-10 offset-md-1"> {/* Adjusted column size for medium devices */}
+        <div className="col-md-10 offset-md-1"> 
           <div id="carouselExample" className="carousel carousel-dark slide" data-bs-ride="carousel">
             <div className="carousel-indicators">
               <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -18,21 +18,21 @@ function Slider() {
             <div className="carousel-inner">
               <div className="carousel-item active c-item">
                 <img src={sliderr} className="d-block w-100 c-image" alt="slider1" />
-                <div className="carousel-caption top-0 mt-4 d-md-block"> {/* Removed d-none class for medium devices */}
+                <div className="carousel-caption top-0 mt-4 d-md-block">
                   <h2 className='mt-5 fs-3'> FOR COMPANIES</h2>
                   <p>"WE HELP YOU TO HIRE RIGHT TALENT."</p>
                 </div>
               </div>
               <div className="carousel-item">
                 <img src={slide2} className="d-block w-100 c-image" alt="slider2" />
-                <div className="carousel-caption top-0 mt-4 d-md-block"> {/* Removed d-none class for medium devices */}
+                <div className="carousel-caption top-0 mt-4 d-md-block"> 
                   <h2 className='mt-5 fs-3 slide2'>FOR COLLEGES</h2>
                   <p>"WE HELP YOU TO INCREASE PLACEMENTS."</p>
                 </div>
               </div>
               <div className="carousel-item Slide3">
                 <img src={slide3} className="d-block w-100 c-image" alt="slider2" />
-                <div className="carousel-caption top-0 mt-4 d-md-block"> {/* Removed d-none class for medium devices */}
+                <div className="carousel-caption top-0 mt-4 d-md-block"> 
                   <h2 className='mt-5 fs-3 slide2'>FOR CANDIDATES</h2>
                   <p>"WE HELP YOU TO FIND RIGHT JOB."</p>
                 </div>
